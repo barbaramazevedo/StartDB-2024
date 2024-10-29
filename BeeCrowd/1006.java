@@ -15,7 +15,6 @@ public class Main {
     System.out.printf("MEDIA = %.1f%n" , MEDIA);
     scanner.close();
     
-    scanner.close();
     }
  
 }
